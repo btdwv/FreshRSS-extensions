@@ -8,4 +8,8 @@ To use it, upload the *xExtension-ScrollToSelectedFeed* folder in your ./extensi
 
 ## Preview
 
-![snapshot](snapshot.png)
+disable extesion
+![image](disable.gif)
+
+enable extesion
+![image](enable.gif)
