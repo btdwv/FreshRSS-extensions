@@ -1,8 +1,0 @@
-{
-	"name": "JumpToSelectedFeed",
-	"author": "btdwv",
-	"description": "JumpToSelectedFeed",
-	"version": 0.1,
-	"entrypoint": "JumpToSelectedFeed",
-	"type": "user"
-}

@@ -1,0 +1,8 @@
+{
+	"name": "ScrollToSelectedFeed",
+	"author": "btdwv",
+	"description": "ScrollToSelectedFeed",
+	"version": 0.1,
+	"entrypoint": "ScrollToSelectedFeed",
+	"type": "user"
+}
