@@ -1,0 +1,8 @@
+{
+	"name": "ShowFeedTitle",
+	"author": "btdwv",
+	"description": "Show Feed Title",
+	"version": 0.1,
+	"entrypoint": "ShowFeedTitle",
+	"type": "user"
+}
